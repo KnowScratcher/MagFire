@@ -12,8 +12,6 @@ I found a CAD software called FreeCAD, and I spend some time learning it through
 
 ![design](https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/learn_design.png)
 
-![youtube](https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/learn_tut.png)
-
 **Total time spent: 3h**
 
 # May 30th: Learn how to design a PCB.
