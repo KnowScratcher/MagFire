@@ -43,3 +43,11 @@ So I just try to design my own, and to my surprise, I think I did a great job.
 ![circuit](https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/20250601circuit.png)
 
 **Total time spent: 2h**
+
+# June 2nd: Draw a draft design for the cannon
+
+So I drew a draft design on my notebook and did some calculation to make sure I won't violate any local laws.
+
+The funny thing is, I forgot to bring the notebook home, so the image will be updated tomorrow. lol
+
+**Total time spent: 2h**
