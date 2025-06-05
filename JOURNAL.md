@@ -50,4 +50,18 @@ So I drew a draft design on my notebook and did some calculation to make sure I 
 
 The funny thing is, I forgot to bring the notebook home, so the image will be updated tomorrow. lol
 
+<img src="https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/20250602draft.jpg" height="400" alt="draft">
+
 **Total time spent: 2h**
+
+# June 3rd: Went to a local store to look up the items
+
+I went to a local electronic store to see if I can find anything that might be on the design, mostly because I need some ideas to continue my design. By the way, I collected some data for the BOM.
+
+<img src="https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/20250605bom.jpg" height="400" alt="the kinda bom like thing">
+
+I then found a [youtube video](https://www.youtube.com/watch?v=vmDZY8jU7f4&ab_channel=LeviJanssen) that looks super cool after returning, but it uses a inductor boost, which doesn't work at all.
+
+Then I go with my original plan, find a voltage transformer and a capacitor to store the electric energy, then use a coil to make the magnetic force to push the iron ball out.
+
+I found a [voltage transformer](https://shopee.tw/-%E7%92%B0%E5%B3%B6%E7%A7%91%E6%8A%80-DC-DC%E9%AB%98%E5%A3%93%E5%8D%87%E5%A3%93%E6%A8%A1%E5%A1%8AZVS-%E9%9B%BB%E5%AE%B9%E5%85%85%E9%9B%BB%E9%9B%BB%E7%A3%81%E7%82%AE45-390V-780V%E5%8F%AF%E8%AA%BF5A-i.280233910.5746752217?sp_atk=b6119ab3-18fe-4849-a5ef-aec26a2a666e&xptdk=b6119ab3-18fe-4849-a5ef-aec26a2a666e) on a famous online shopping site locally. It's looking super convincing to me so, probably I'll give it a go.
