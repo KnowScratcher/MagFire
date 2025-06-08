@@ -69,7 +69,7 @@ I found a [voltage transformer](https://shopee.tw/-%E7%92%B0%E5%B3%B6%E7%A7%91%E
 
 # June 7th: Design schematic
 So I drew a little schematic-like thing today and it looks like this
-<img src="https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/20250607scheme.png" height="400" alt="the kinda bom like thing">
+<img src="https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/20250607scheme.png" height="400" alt="the kinda schematic-like thing">
 
 Well, I think I have to bring a ruler to the electronic store and measure the size of the capacitor
 
