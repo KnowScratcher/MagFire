@@ -1,4 +1,4 @@
-25599323856136724
+25599324313189072
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -66647,14 +66647,14 @@ solder jumper open
 3
 3
 KS_Maker
-DC-DC390v_transformer
+DC-DC390v_transformer_2
 
 
 0
-5
-5
+4
+4
 KS_Maker
-DC-DC390v_transformer_2
+DC-DC390v_transformer_3
 
 
 0

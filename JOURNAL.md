@@ -76,3 +76,19 @@ Well, I think I have to bring a ruler to the electronic store and measure the si
 And I also went to a local hardware store to see if I can find some steel ball (well, actually iron ball), and I found some.
 
 **Total time spent: 2h**
+
+# June 12th: Design PCB.
+
+So today I designed the PCB which I think might just work.
+
+<img src="https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/20250612pcb.png" height="400" alt="PCB which I think might just work">
+
+This is the first time I'm designing a PCB, and I've just learn it from youtube tutorials. Well, the craziest part must be that my teacher had been amazed by this project and jumped off the chair multiple times (like literally, about 4 ~ 5 times).
+
+I also drew the model to 3d print.
+
+<img src="https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/20250612model.png" height="400" alt="model to 3d print">
+
+I just can't believe I did it in just 5 hr.
+
+**Total time spent: 5h**
