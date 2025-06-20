@@ -103,3 +103,5 @@ and the PCB
 
 <img src="https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/20250620pcb.png" height="400" alt="pcb">
 
+Then I get everything ready and submit.
+**Total time spent: 2h**
