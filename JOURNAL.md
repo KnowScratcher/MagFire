@@ -92,3 +92,14 @@ I also drew the model to 3d print.
 I just can't believe I did it in just 5 hr.
 
 **Total time spent: 5h**
+
+# June 20th: finish the design.
+
+I finish designing today and it look something like this
+
+<img src="https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/20250620design.png" height="400" alt="model">
+
+and the PCB
+
+<img src="https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/20250620pcb.png" height="400" alt="pcb">
+

@@ -3,15 +3,15 @@
 
 
 # BOM
-| Item                   | Amount | Price(USD) | Total(USD) |
-| ---------------------- | ------ | ---------- | ---------- |
-| DC-DC 390v Transformer | 1      | 4.85       | 4.85       |
-| Copper wire (?mm)      | ?      | ?          | ?          |
-| Button                 | 2      | ?          | ?          |
-| Voltage indicator      | 1      | ?          | ?          |
-| Capacitor 1000uF 400v  | 1      | ?          | ?          |
-| Custom PCB             | 1      | ?          | ?          |
-| Iron ball              | 1      | ?          | ?          |
+| Item                       | Amount | Price(USD) | Total(USD) | Total(TWD) |
+| -------------------------- | ------ | ---------- | ---------- | ---------- |
+| DC-DC 390v Transformer     | 1      | 4.85       | 4.85       | 145        |
+| Copper wire (0.5mm)        | ?      | ?          | ?          |            |
+| Button                     | 2      | 0.3        | 0.6        | 20         |
+| Voltage indicator(dc 400v) | 0~1    | ?          | ?          | ?          |
+| Capacitor 1000uF 400v      | 1      | 7.45       | 7.45       | 220        |
+| Custom PCB                 | 1      | 2~4        | 4          | 60         |
+| Iron ball (D=10mm)         | 1      | 0.17       | 0.17       | 5          |
 
 # Journal
 The journal is in [JOURNAL.md](JOURNAL.md)

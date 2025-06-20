@@ -1,4 +1,4 @@
-25599324313189072
+25637375428423943
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93757,6 +93757,153 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SSD1306
+128x64OLED
+
+
+0
+8
+4
+SSD1306-0.91-OLED-4pin-128x32
+SSD1306-0.91-OLED-4pin-128x32
+
+
+0
+4
+4
+Seeed Studio XIAO Series Library
+XIAO-Add-On
+
+
+0
+56
+14
+Seeed Studio XIAO Series Library
+XIAO-ESP32C3-DIP
+
+
+0
+28
+14
+Seeed Studio XIAO Series Library
+XIAO-ESP32C3-SMD
+
+
+0
+22
+22
+Seeed Studio XIAO Series Library
+XIAO-ESP32C6-DIP
+
+
+0
+28
+14
+Seeed Studio XIAO Series Library
+XIAO-ESP32C6-SMD
+
+
+0
+24
+24
+Seeed Studio XIAO Series Library
+XIAO-ESP32S3-DIP
+
+
+0
+28
+14
+Seeed Studio XIAO Series Library
+XIAO-ESP32S3-SMD
+
+
+0
+24
+24
+Seeed Studio XIAO Series Library
+XIAO-MG24-DIP
+
+
+0
+58
+24
+Seeed Studio XIAO Series Library
+XIAO-MG24-SMD
+
+
+0
+32
+32
+Seeed Studio XIAO Series Library
+XIAO-RA4M1-DIP
+
+
+0
+58
+24
+Seeed Studio XIAO Series Library
+XIAO-RA4M1-SMD
+
+
+0
+30
+30
+Seeed Studio XIAO Series Library
+XIAO-RP2040-DIP
+
+
+0
+28
+14
+Seeed Studio XIAO Series Library
+XIAO-RP2040-SMD
+
+
+0
+20
+20
+Seeed Studio XIAO Series Library
+XIAO-RP2350-DIP
+
+
+0
+58
+24
+Seeed Studio XIAO Series Library
+XIAO-RP2350-SMD
+
+
+0
+30
+30
+Seeed Studio XIAO Series Library
+XIAO-SAMD21-DIP
+
+
+0
+28
+14
+Seeed Studio XIAO Series Library
+XIAO-SAMD21-SMD
+
+
+0
+20
+20
+Seeed Studio XIAO Series Library
+XIAO-nRF52840-DIP
+
+
+0
+28
+14
+Seeed Studio XIAO Series Library
+XIAO-nRF52840-SMD
+
+
+0
+22
+22
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -102654,3 +102801,10 @@ Varistor VF
 0
 2
 2
+foot
+SSD1306_OLED-0.91-128x32
+
+
+0
+14
+14
