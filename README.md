@@ -1,5 +1,10 @@
 # MagFire
 
+<p align="center">
+Fire!!!
+</p>
+
+<img src="https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/20250620design.png" height="400" alt="model">
 
 
 # BOM
@@ -15,3 +20,16 @@
 
 # Journal
 The journal is in [JOURNAL.md](JOURNAL.md)
+
+# Design
+## Schematic
+
+<img src="https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/scheme.png" height="400" alt="schematic">
+
+## PCB
+
+<img src="https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/pcb.png" height="400" alt="PCB">
+
+# How it all started?
+
+I'm inspired by some youtuber making coil gun. So I decided to make one myself.
