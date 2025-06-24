@@ -17,9 +17,19 @@ Fire!!!
 | Capacitor 1000uF 400v      | 1      | 7.45       | 7.45       | 220        |
 | Custom PCB                 | 1      | 2~4        | 4          | 60         |
 | Iron ball (D=10mm)         | 1      | 0.17       | 0.17       | 5          |
+| Total                      |        |            | 17.07      | 450        |
 
 # Journal
 The journal is in [JOURNAL.md](JOURNAL.md)
+
+# How it all started?
+
+I'm inspired by some youtuber making coil gun. So I decided to make one myself.
+
+## What will it do?
+- store energy in a capacitor
+- fire a metal ball when the button is pressed
+
 
 # Design
 ## Schematic
@@ -30,6 +40,4 @@ The journal is in [JOURNAL.md](JOURNAL.md)
 
 <img src="https://raw.githubusercontent.com/KnowScratcher/MagFire/refs/heads/main/img/pcb.png" height="400" alt="PCB">
 
-# How it all started?
 
-I'm inspired by some youtuber making coil gun. So I decided to make one myself.
