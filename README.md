@@ -22,7 +22,7 @@ Fire!!!
 # Journal
 The journal is in [JOURNAL.md](JOURNAL.md)
 
-# How it all started?
+## How it all started?
 
 I'm inspired by some youtuber making coil gun. So I decided to make one myself.
 
