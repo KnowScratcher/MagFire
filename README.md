@@ -27,8 +27,11 @@ The journal is in [JOURNAL.md](JOURNAL.md)
 I'm inspired by some youtuber making coil gun. So I decided to make one myself.
 
 ## What will it do?
+it's a toy that fires little metal ball. basically you can charge it with a battery and when you press fire, the ball will shoot out.
+
 - store energy in a capacitor
 - fire a metal ball when the button is pressed
+
 
 
 # Design
